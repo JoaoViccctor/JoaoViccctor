@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoViccctor
 - 👀 I’m interested in Developing 
-- 🌱 I’m currently learning HTML5 & CSS+
+- 🌱 I’m currently learning HTML5 & CSS3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
