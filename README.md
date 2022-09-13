@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaoViccctor
-- 👀 I’m interested in Developing 
-- 🌱 I’m currently learning JS and a little of python
+- 👀 I’m interested in mobile 
+- 🌱 I’m currently learning all-around about Js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
