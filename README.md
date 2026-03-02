@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JoaoViccctor
-- 👀 I’m interested in CloudComputing 
+- 👀 DataAnalyst
+- linkedin.com/in/jvarodrigues/
 - 🌱 Don't Worry, be Happy
 
 
