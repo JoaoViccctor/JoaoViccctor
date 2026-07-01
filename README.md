@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoViccctor
-- 👀 DataAnalyst
+- 👀 Data Analyst/Data Engineer 
 - linkedin.com/in/jvarodrigues/
 - 🌱 Don't Worry, be Happy
 
